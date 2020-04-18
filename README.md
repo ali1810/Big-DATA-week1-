@@ -1,2 +1,4 @@
 # Big-DATA-week1-
-Exercise 1 &amp;2
+There are two programme in this single file 
+Basic solution of Fizz buzz problem to an idea of progmam flow.
+Breast Cancer analysis ..
